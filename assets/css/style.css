@@ -79,7 +79,7 @@
 	background-color: #ffffff;
 	color: #4aaaa5;
 	text-align: center;
-	padding-bottom: 20px;
+	padding: 15px 0px 30px 0px;
 	border: solid #dddddd;
 	margin-top: 20px;
 	margin-left: 20px;
@@ -134,8 +134,10 @@
 .connectMeHeader{
 	background-color: #ffffff;
 	color:#4aaaa5;
-	margin: 10px;
 	border-bottom: solid #cccccc;
 	font-size: 24px;
+	margin:0px 10px 0px 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 
 }
