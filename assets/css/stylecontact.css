@@ -151,9 +151,6 @@
 }
 
 .messageForm{
-	padding-top: 10%;
-	padding-bottom: 10%;
-	width: 95%;
 	margin-top: 1%;
 	margin-bottom: 1%;
 }
@@ -199,7 +196,7 @@ a:active { color: #B29F45; text-decoration: none}
 }
 
 .hover-outline:hover {
-  outline: 3px solid gray;
+  outline: 3px solid grey;
   outline-offset: 0px;
   background-color: #FFA06F;
 
