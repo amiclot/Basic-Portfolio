@@ -1,5 +1,3 @@
-
-
 .entireContentArea{
 	overflow: hidden;
 	width:960px;
@@ -138,4 +136,25 @@
 	border-bottom: solid #cccccc;
 	font-size: 24px;
 
+}
+
+.portfolioImage{
+	float: left;
+	margin: 1%;
+	height: 300px;
+}
+
+.portfolioBox{
+	margin-left: 1.5%;
+}
+
+.imageText{
+	background-color: #4aaaa5;
+	color: #ffffff;
+	text-align: center;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	position: relative;
+	bottom: 100px;
+	margin: 0px;
 }
