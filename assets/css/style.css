@@ -105,7 +105,9 @@
 .paragraph{
 	margin-left: 10px;
 	margin-right: 10px;
-	
+	line-height: 2em;
+	color: #777777;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 .socialLinks{
